@@ -25,7 +25,7 @@ I build systems that learn structured representations from high-dimensional data
 | :--- | :--- |
 | **8x memory reduction** | Wavelet-domain compression for 3D diffusion training; exactly invertible with no information loss |
 | **10x model compression** | Self-supervised knowledge distillation ($232\text{M} \to 20\text{M}$ parameters) with zero downstream accuracy drop |
-| **60,000+ volumes** | Multimodal MRI cohorts (T1w, T2w, DWI, FLAIR) utilized in foundation model pretraining |
+| **300,000+ volumes** | Multimodal MRI cohorts (T1w, T2w, DWI, FLAIR) utilized in foundation model pretraining |
 | **207k nuclei, 28 donors** | Single-nucleus and spatial transcriptomics pipeline for Parkinson's disease cohort analysis |
 | **1,337 protein nodes** | Affinity-weighted graph attention network for cell-cell signaling perturbation prediction |
 
