@@ -48,7 +48,7 @@ I build systems that learn structured representations from high-dimensional data
 ## Skills
 
 * **Generative & Deep Learning:** PyTorch · Diffusion Models · Self-Supervised Learning · Knowledge Distillation · U-Net Architectures
-* **Computer Vision:** Object Detection · Semantic Segmentation · 3D Scene Understanding · Camera-LiDAR Calibration · Point Cloud Processing
+* **Computer Vision:** Object Detection · Segmentation · 3D Scene Understanding · Camera-LiDAR Calibration · Point Cloud Processing
 * **Genomics & Bioinformatics:** Scanpy · Seurat · Nextflow · Single-Cell & Spatial Transcriptomics
 * **Full-Stack & Systems:** React · TypeScript · Three.js · Spring Boot · PostgreSQL · Docker · FastAPI
 * **Evaluation & Reliability:** Cross-Validation · Model Calibration · Structured Failure Analysis · Ablation Testing
