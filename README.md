@@ -2,7 +2,7 @@
 
 M.S. Bioinformatics @ University of Michigan | Computer Vision & Generative Modeling
 
-I build systems that learn structured representations from high-dimensional data—medical imaging, sensor streams, and single-cell genomics. I care as much about whether a model's evaluation actually holds up as I do about the model itself.
+I build systems that learn structured representations from high-dimensional data, medical imaging, sensor streams, and single-cell genomics. I care as much about whether a model's evaluation actually holds up as I do about the model itself.
 
 **Currently:** Training a 3D diffusion foundation model on multimodal MRI volumes, solving a hard GPU memory constraint through a wavelet-domain representation, and distilling it down 10x with zero measured loss in downstream performance.
 
